@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791429678 source:/home/sean/Documents/focus guard/focus_timer.cpp
+	<iostream>
+	<unistd.h>
+	"SFML/Audio.hpp"
+
